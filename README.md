@@ -2,7 +2,7 @@
 
 ##
 
-- 🌱 I am a Software Development student, passionate about programming and excited about learning on both the Back-End and Front-End sides. I'm always looking to grow professionally and personally. and in getting involved in projects that seek to add value to our society, always with empathy and collaboration with others.
+- 🌱 I am a Student Web Development, passionate about programming and excited about learning on both the Back-End and Front-End sides. I'm always looking to grow professionally and personally. and in getting involved in projects that seek to add value to our society, always with empathy and collaboration with others.
 
  <div>
   <a href="https://github.com/EmanuelSidon">
