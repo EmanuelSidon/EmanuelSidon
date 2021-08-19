@@ -21,8 +21,8 @@
     
  ##
     
- <div> 
+ <div>
     <a href = "mailto:emanuel-ferrera@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="www.linkedin.com/in/emanuel-sidon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.instagram.com/emanuel_sidon/" target="_blank"><img src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/emanuel_sidon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck"></a>
 </div>
